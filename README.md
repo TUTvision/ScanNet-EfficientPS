@@ -97,7 +97,7 @@ EfficientPS
 ```
 
 ## Run ScanNet inference
-1. Download ScanNet data and export camera datafrom .sens files with
+1. Download ScanNet data and export camera data from .sens files with
 ```
 python tools/export_sens_data.py \
     --source_dir path/to/scannet/scenes \
