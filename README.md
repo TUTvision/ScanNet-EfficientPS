@@ -7,10 +7,11 @@ Original repository:
 
 ScanNet dataset:
 [http://www.scan-net.org/](http://www.scan-net.org/)
+
 ## Pre-Trained Models
-| Dataset   |  Model | PQ |
-|-----------|:-----------------:|--------------|
-| ScanNet   | [Download](link)  | x |
+You need to install git Large File Storage to pull the pre-trained weights. [tutorial](https://git-lfs.github.com/)
+
+You can also simply download them from [weights/scannet_final.pth](https://github.com/TUTvision/ScanNet-EfficientPS/blob/main/weights/scannet_final.pth)
 
 ## Installation:
 Follow the instructions in the original repository.
