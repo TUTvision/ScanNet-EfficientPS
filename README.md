@@ -14,7 +14,7 @@ You need to install git Large File Storage to pull the pre-trained weights. [tut
 You can also simply download them from [weights/scannet_final.pth](https://github.com/TUTvision/ScanNet-EfficientPS/blob/main/weights/scannet_final.pth)
 
 ## Installation:
-Follow the instructions in the original repository.
+Follow the instructions in the [original repository](https://github.com/DeepSceneSeg/EfficientPS).
 
 ## Prepare ScanNet Data for training and validation
 
